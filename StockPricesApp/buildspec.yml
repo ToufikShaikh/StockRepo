@@ -9,5 +9,5 @@ phases:
       - echo Build complete.
 artifacts:
   files:
-    - target/stocks-app.jar
+    - target/StockPricesApp-0.0.1-SNAPSHOT.jar
   discard-paths: yes
